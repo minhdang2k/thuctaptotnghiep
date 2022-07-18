@@ -48,9 +48,17 @@ if __name__ == '__main__':
  
  ### **2.Viết API để gửi email từ python**
 Cài đặt thư viện liên quan đến thao tác email: *$pipenv install flask_mail*.  
+![image](https://user-images.githubusercontent.com/108714112/179440858-aae25a84-9bc6-43ed-a00d-13723dd8f8f8.png)
+
 Sau đó chúng ta có thể khai báo địa chỉ email và mật khẩu ứng dụng liên quan đến email nguồn.  
+![image](https://user-images.githubusercontent.com/108714112/179440973-d948d633-ecc9-4981-9fe3-711e680dcc98.png)
+
 Lấy địa chỉ email của người nhân và nội dung cần gửi bở input.  
+![image](https://user-images.githubusercontent.com/108714112/179440995-583fe020-1610-4c95-b66a-22e5f553f640.png)
+
 Tiến hành gửi email theo nội dung và nguời nhận đã được truyền vào ở trên.  
+![image](https://user-images.githubusercontent.com/108714112/179441122-7c200812-5ac5-4868-9c0f-8f27e3d2e7dc.png)
+
 Source code có thể xem tại [đây](https://github.com/minhdang2k/thuctaptotnghiep/tree/main/emaill)
 
  ### **3.Viết API của dự án nhỏ**
