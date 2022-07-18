@@ -57,7 +57,9 @@ Lấy địa chỉ email của người nhân và nội dung cần gửi bở in
 ![image](https://user-images.githubusercontent.com/108714112/179440995-583fe020-1610-4c95-b66a-22e5f553f640.png)
 
 Tiến hành gửi email theo nội dung và nguời nhận đã được truyền vào ở trên.  
-![image](https://user-images.githubusercontent.com/108714112/179441122-7c200812-5ac5-4868-9c0f-8f27e3d2e7dc.png)
+![image](https://user-images.githubusercontent.com/108714112/179441757-1f20ed6a-8174-497d-84d9-cdf2f014b8ec.png)
+
+![image](https://user-images.githubusercontent.com/108714112/179441789-d4342e4f-1bf6-432f-8d6b-d22e0cdde7b7.png)
 
 Source code có thể xem tại [đây](https://github.com/minhdang2k/thuctaptotnghiep/tree/main/emaill)
 
